@@ -1,0 +1,28 @@
+.botao{
+    width: 100px;
+    height: 70px;
+    background: rgb(210, 142, 255);
+    color: #302626;
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 8px;
+    cursor: pointer;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-image: url(../21032024_DOM_continuacao/furao.jpg);
+}
+
+.box-inativo{
+    display: none;
+}
+
+.aumentar{
+    width: 600px;
+    height: 600px;
+}
